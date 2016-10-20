@@ -1,0 +1,2 @@
+# ProjectJavaBeans
+Exercicio 6
